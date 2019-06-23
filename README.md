@@ -1,0 +1,1 @@
+Deep Learning Assignment of Nagarro Bootcamp. Final results are there in final.pickle file. 
